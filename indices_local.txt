@@ -1,0 +1,290 @@
+0 - Brasil 
+1 - Brasil 
+2 - Rio de Janeiro 
+3 -  
+4 - Fortaleza / Ceará 
+5 - São PauloBrasil 
+6 - Rio de JaneiroBrasil 
+7 - GoiâniaBrasil 
+8 - LISBOA 
+9 - Far Far Away 
+10 - Fortaleza - Ce - Brasil 
+11 -  
+12 - Nova Viçosa BABrasil 
+13 -  
+14 -  
+15 -  
+16 - NatalBrasil 
+17 - São PauloBrasil 
+18 -  
+19 -  
+20 -  
+21 -  
+22 - São VicenteBrasil 
+23 - l 
+24 - São PauloBrasil 
+25 -  
+26 -  
+27 -  
+28 -  
+29 - portlandor 
+30 -  
+31 - Belém/Pa 
+32 -  
+33 -  
+34 - João Buraco 
+35 - São PauloBrasil 
+36 - Porto AlegreBrasil 
+37 - ParaíbaBrasil 
+38 -  
+39 - São PauloBrasil 
+40 - São PauloBrasil 
+41 - São Félix do AraguaiaBrasil 
+42 - WashingtonDC 
+43 - Rio de JaneiroBrasil 
+44 - BahiaBrasil 
+45 - São PauloBrasil 
+46 -  
+47 - sp 
+48 -  
+49 -  
+50 -  
+51 -  
+52 - Baden-WürttembergDeutschland 
+53 -  
+54 - Belem-pa 
+55 - Brasil 
+56 -  
+57 - Parque VerdeBelém 
+58 - Campo Grande/MS  - Brasil 
+59 - Somewhere Over The Rainbow 
+60 -  
+61 - Brasil 
+62 -  
+63 -  
+64 -  
+65 -  
+66 -  
+67 -  
+68 - Rio de JaneiroBrasil 
+69 -  
+70 -  
+71 -  
+72 -  
+73 -  
+74 - BanguRio de Janeiro 
+75 -  
+76 - Parque VerdeBelém 
+77 - Brasil 
+78 - Barra Velha - Santa Catarina 
+79 - Brasil 
+80 - Brasil 
+81 -  
+82 -  
+83 - Sao PauloBrazil 
+84 -  
+85 -  
+86 -  
+87 - Parque VerdeBelém 
+88 - Miguel PereiraBrasil 
+89 -  
+90 -  
+91 - BH(MG) 
+92 - Santos,SP / Rio,RJ 
+93 - Santista no RJ 
+94 - Brasil 
+95 -  
+96 - Brasil 
+97 - GoiâniaBrasil 
+98 - GoiâniaBrasil 
+99 - Ferros MG 
+100 - PortoPortugal 
+101 - CuritibaBrasil 
+102 -  
+103 - Brasil 
+104 - Rio de JaneiroRJBrazil 
+105 - Niterói RJ 
+106 - SP/SP 
+107 - São PauloBrasil 
+108 -  
+109 -  
+110 - GoiâniaBrasil 
+111 -  
+112 - Rio de Janeiro 
+113 - Riachão do JacuípeBrasil 
+114 - Rio de JaneiroBrasil 
+115 - Porto AlegreBrasil 
+116 -  
+117 - Uma potiguar em Niterói-Rj 
+118 - curitiba 
+119 -  
+120 - Mundo NovoBrasil 
+121 - MacapáBrasil 
+122 - São Paulo 
+123 -  
+124 -  
+125 - Brasil 
+126 - Rio de Janeiro 
+127 - Ribeirão Preto 
+128 -  
+129 - Brasil 
+130 - São PauloBrasil 
+131 - Belo HorizonteMinas Gerais 
+132 -  
+133 -  
+134 -  
+135 -  
+136 -  
+137 - São PauloBrasil 
+138 - São PauloBrasil 
+139 - Rio de JaneiroBrasil 
+140 - São José dos CamposBrasil 
+141 - São Paulo 
+142 - Lee aquí el último #TEVDA 👇 
+143 -  
+144 - Brasil 
+145 - RecifeBrasil 
+146 -  
+147 - Juiz de ForaBrasil 
+148 -  
+149 -  
+150 -  
+151 - Recreio dos Bandeirantes 
+152 -  
+153 -  
+154 -  
+155 - Paraná 
+156 - Rio de JaneiroBrasil 
+157 -  
+158 -  
+159 - Rio de JaneiroBrasil 
+160 - കേരളം 
+161 - Plano Piloto de BrasíliaBrasília 
+162 - Brussels 
+163 -  
+164 - São Paulo - SP - Brasil 
+165 - Florianópolis - SC 
+166 - SalvadorBahia - Brasil 
+167 -  
+168 -  
+169 - കേരളം 
+170 -  
+171 -  
+172 - Brasil 
+173 - BrasíliaBrasil 
+174 -  
+175 - Rio de JaneiroBrasil 
+176 -  
+177 - ImperatrizBrasil 
+178 - guanambi-ba 
+179 - Brasil 
+180 - LisboaPortugal 
+181 -  
+182 - Teresina - Pi Brasil 
+183 - UberabaBrasil 
+184 - Francisco Morato- SP 
+185 - Santa CatarinaBrasil 
+186 - Rio Grande do Sul 
+187 - Mountain ViewCA 
+188 - Interwebs 
+189 -  
+190 - RecifeBrasil 
+191 -  
+192 -  
+193 -  
+194 -  
+195 -  
+196 - Rio de Janeiro 
+197 - Rio de Janeiro.RJ 
+198 - Lee aquí el último #TEVDA 👇 
+199 - Escola de Engenharia de Lins 
+200 - maringá-pr 
+201 -  
+202 - Brasil 
+203 - São PauloBrasil 
+204 - CidreiraBrasil 
+205 - São Bernardo do Campo - SP 
+206 - Porto AlegreBrasil 
+207 - Salvador 
+208 -  
+209 - Curitiba 
+210 - SalvadorBrasil 
+211 - Natal/RN 
+212 - www.blogdoatheneu.org 
+213 - Manaus 
+214 - Brasil 
+215 - RecifeBrasil 
+216 - Rio de JaneiroBrasil 
+217 - João Pessoa-PB 
+218 - RJ 
+219 - Riobb 
+220 - Brasil 
+221 - CachoeirinhaBrasil 
+222 - GoiâniaBrasil 
+223 -  
+224 - Brasil 
+225 - Fennobahia 
+226 - PalmasBrasil 
+227 - FortalezaBrasil 
+228 - Minas GeraisBrasil 
+229 - SP 
+230 - Rio ClaroBrasil 
+231 -  
+232 -  
+233 -  
+234 -  
+235 - Estados Unidos 
+236 -  
+237 -  
+238 -  
+239 -  
+240 - Rio de JaneiroBrasil 
+241 - Praia GrandeBrasil 
+242 - Brasil 
+243 -  
+244 - São Paulo - Brasil 
+245 - São LuísMA 
+246 - Mozambique 
+247 - Mozambique 
+248 - Rio de Janeiro 
+249 -  
+250 -  
+251 - Belo HorizonteBrasil 
+252 -  
+253 -  
+254 -  
+255 - Buenos AiresArgentina 
+256 - Santos/sp - Brasil 
+257 -  
+258 - Tesseract Brazil 
+259 -  
+260 - JaicósPiauiBrasil 
+261 - Brasil 
+262 -  
+263 -  
+264 - RS - Brasil 
+265 - Recife 
+266 - Santa Catarina 
+267 - TubarãoSanta Catarina 
+268 - Brasil 
+269 - Brasil 
+270 - MacapáBrasil 
+271 - Tere-Rio-BH 
+272 - CuritibaBrasil 
+273 - Serra Negra/SP 
+274 - AracajuBrasil 
+275 - São Paulo 
+276 - AracajuBrasil 
+277 - Brasil 
+278 -  
+279 - CESomewhere Over the Rainbow 
+280 - São Paulo/SP 
+281 - PENTELHOCOSTALQUISTÃO ✝️ 
+282 - Rio de Janeiro 
+283 -  
+284 - São PauloBrasil 
+285 -  
+286 -  
+287 - Santos/SP/Brasil 
+288 - FortalezaBrasil 
+289 - Belém/Pa 
